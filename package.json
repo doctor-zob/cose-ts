@@ -1,14 +1,14 @@
 {
-  "name": "@ldclabs/cose-ts",
+  "name": "@doctor-zob/cose-ts-secp256k1",
   "type": "module",
   "version": "1.3.2",
   "author": "0xZensh <txr1883@gmail.com>",
   "description": "Implemented Keys, Algorithms (RFC9053), COSE (RFC9052) and CWT (RFC8392) in TypeScript.",
   "license": "MIT",
-  "homepage": "https://github.com/ldclabs/cose-ts",
+  "homepage": "https://github.com/doctor-zob/cose-ts-secp256k1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ldclabs/cose-ts.git"
+    "url": "git+https://github.com/doctor-zob/cose-ts-secp256k1.git"
   },
   "files": [
     "dist",
